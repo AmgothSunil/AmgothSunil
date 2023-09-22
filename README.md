@@ -1,6 +1,6 @@
-👋 Hi, I’m @AmgothSunil
-👀 I’m interested in - Data Analytics Field
-🌱 I’m currently learning - Data Analytics
+-👋 Hi, I’m @AmgothSunil
+-👀 I’m interested in - Data Analytics Field
+-🌱 I’m currently learning - Data Analytics
 - 💞️ I’m looking to collaborate on linkdin
 - 📫 How to reach me - email: amgothsunil422@gmail.com
 
